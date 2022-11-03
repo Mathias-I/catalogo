@@ -195,10 +195,28 @@ header {
     
 
 }
-/* slider fim */
+
+.seta{
+    margin-top: 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.seta:hover{
+
+    box-shadow: 2px 2px 10px #000;
+
+}
+
+
+
+
 
 
 @media (min-width: 2px) and (max-width: 468px){
+
     
     .corpo{
         background-color:#fff;
